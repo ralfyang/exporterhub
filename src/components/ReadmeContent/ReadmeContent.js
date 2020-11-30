@@ -8,10 +8,7 @@ const ReadmeContent = () => {
       <Header>
         <Container>
           <OpenSourceInfo>
-            <HeaderLogo
-              src="./images/prometheus_logo.png"
-              alt="오픈소스 로고"
-            />
+            <HeaderLogo src="/images/prometheus_logo.png" alt="오픈소스 로고" />
             <ListWrap>
               <List>
                 <Name>My SQL Server Exporter</Name>
